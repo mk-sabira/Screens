@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WhiteText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="WhiteSmallText" parent="WhiteText">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Screens</string>
+
+    <string name="schedule_driver">Назначить водителя</string>
+    <string name="schedule_curator">Назначить куратора</string>
+    <string name="add_junior_admin">Добавить младшего администратора</string>
+
+    <string name="name_of_admin">ФИО администратора</string>
+    <string name="name_of_company">Название компании</string>
+
+    <string name="add_driver">Добавить водителя</string>
+    <string name="add_curator">Добавить куратора</string>
+
+    <string name="name_of_driver">ФИО водителя</string>
+    <string name="number_of_car">Номер машины</string>
+    <string name="number_of_run">Номер рейса</string>
+
+    <string name="name_of_curator">ФИО куратора</string>
+    <string name="log_out">Выйти</string>
+
+
+</resources>
